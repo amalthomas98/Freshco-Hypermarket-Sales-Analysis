@@ -1,1 +1,2 @@
 # Freshco-Hypermarket-Sales-Analysis
+This project involves analyzing sales data from Freshco Hypermarket, a prominent supermarket located in HSR, Bangalore. In 2021, Freshco introduced a home delivery service, and to ensure seamless operations and optimize customer satisfaction, they maintained a comprehensive transaction data sheet. The aim of this project is to extract meaningful insights from this data, focusing on order patterns, completion rates, customer value, and delivery efficiency. The analysis was performed using Excel.
