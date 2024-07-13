@@ -3,6 +3,7 @@ This project involves analyzing sales data from Freshco Hypermarket, a prominent
 
 
 Key Insights
+
 Order Level Analysis
 
 Analyzed the distribution of orders across different time slots and delivery areas.
